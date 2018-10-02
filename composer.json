@@ -1,0 +1,9 @@
+{
+    "require": {
+	"sastrawi/sastrawi": "^1",
+	"wamania/php-stemmer": "dev-master",
+	"camspiers/porter-stemmer": "1.0.0",
+        "nadar/stemming": "^1.0",
+        "pear/text_languagedetect": "^1.0"
+    }
+}
